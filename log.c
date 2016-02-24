@@ -4,7 +4,7 @@
 #include <string.h>
 #include <unistd.h>
 #include <fcntl.h>
-#include "trinity.h"
+
 
 static char outputbuf[1024];
 FILE *parentlogfile;
